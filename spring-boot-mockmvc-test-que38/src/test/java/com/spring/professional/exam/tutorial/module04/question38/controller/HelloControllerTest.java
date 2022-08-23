@@ -31,6 +31,7 @@ public class HelloControllerTest {
 
         MvcResult mvcResult = mockMvc.perform(get("/"))
                 .andReturn();
+
         assertEquals("Hello Test", mvcResult.getResponse().getContentAsString());
     }
 
