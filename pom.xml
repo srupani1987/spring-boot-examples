@@ -63,7 +63,7 @@
         <module>question40-spring-boot-starter-test-dependencies</module>
         <module>question41-spring-boot-web-integration-test</module>
         <module>question42-spring-boot-integration-test</module>
-        <module>module04-question43</module>
+        <module>question43-spring-boot-mock-injection-test</module>
         <module>module04-question44</module>
     </modules>
 
