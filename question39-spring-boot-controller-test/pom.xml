@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>module04-question39</artifactId>
+    <artifactId>question39-spring-boot-controller-test</artifactId>
 
     <dependencies>
         <dependency>
