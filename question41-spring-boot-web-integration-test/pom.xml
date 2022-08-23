@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>module04-question41</artifactId>
+    <artifactId>question41-spring-boot-web-integration-test</artifactId>
 
     <dependencies>
         <dependency>
