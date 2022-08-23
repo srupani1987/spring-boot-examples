@@ -64,7 +64,7 @@
         <module>question41-spring-boot-web-integration-test</module>
         <module>question42-spring-boot-integration-test</module>
         <module>question43-spring-boot-mock-injection-test</module>
-        <module>module04-question44</module>
+        <module>question44-spring-boot-datajpa-entity-test</module>
     </modules>
 
     <dependencyManagement>

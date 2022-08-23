@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>module04-question44</artifactId>
+    <artifactId>question44-spring-boot-datajpa-entity-test</artifactId>
 
     <dependencies>
         <dependency>
